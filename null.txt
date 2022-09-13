@@ -1,0 +1,6 @@
+Solitario Saltos.
+	Intentos realizados: 0
+	Intentos realizados con éxito: 0
+Solitario Clásico.
+	Intentos realizados: 0
+	Intentos realizados con éxito: 0

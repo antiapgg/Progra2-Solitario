@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game>
+  <pile>
+    <card isReversed=" false" suit="S " value="100"/>
+  </pile>
+  <pile>
+    <card isReversed=" false" suit="S " value="100"/>
+  </pile>
+</game>
